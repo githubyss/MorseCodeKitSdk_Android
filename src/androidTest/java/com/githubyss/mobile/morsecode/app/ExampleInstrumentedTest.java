@@ -1,4 +1,4 @@
-package com.githubyss.mobile.morsecode.app;
+package com.githubyss.mobile.morsecode.kit;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.githubyss.mobile.morsecode.app.test", appContext.getPackageName());
+        assertEquals("com.githubyss.mobile.morsecode.kit.test", appContext.getPackageName());
     }
 }

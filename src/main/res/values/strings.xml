@@ -1,3 +1,5 @@
 <resources>
     <string name="mckitAppName">Morse Code Kit Android</string>
+
+    <string name="mckitFailingInfo">Failing Info:</string>
 </resources>

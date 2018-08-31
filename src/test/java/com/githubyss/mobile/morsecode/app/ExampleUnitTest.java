@@ -1,4 +1,4 @@
-package com.githubyss.mobile.morsecode.app;
+package com.githubyss.mobile.morsecode.kit;
 
 import org.junit.Test;
 
